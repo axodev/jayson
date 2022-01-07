@@ -3,14 +3,29 @@
     {
       "id": 1,
       "title": "Post 1x"
+      "address": {
+      "geo": {
+        "lat": "-37.3159",
+        "lng": "81.1426"
+      }
     },
     {
       "id": 2,
       "title": "Post 2y"
+      "address": {
+      "geo": {
+        "lat": "-2.3159",
+        "lng": "22.1396"
+      }
     },
     {
       "id": 3,
       "title": "Post 3z"
+      "address": {
+      "geo": {
+        "lat": "-1.3249",
+        "lng": "99.9999"
+      }
     }
   ],
   "comments": [
