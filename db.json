@@ -1,15 +1,31 @@
-
-[
-  {
-    "id": 1,
-    "name": "Leanne Graham"
-  },
-  {
-    "id": 2,
-    "name": "Ervin Howell"
-  },
-  {
-    "id": 3,
-    "name": "Clementine Bauch"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1x"
+    },
+    {
+      "id": 2,
+      "title": "Post 2y"
+    },
+    {
+      "id": 3,
+      "title": "Post 3z"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "this comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "that comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
