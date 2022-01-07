@@ -1,35 +1,15 @@
+
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "address": {
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    }
+    "name": "Leanne Graham"
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "address": {
-      "zipcode": "90566-7771",
-      "geo": {
-        "lat": "-43.9509",
-        "lng": "-34.4618"
-      }
-    }
+    "name": "Ervin Howell"
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
-    "address": {
-      "zipcode": "59590-4157",
-      "geo": {
-        "lat": "-68.6102",
-        "lng": "-47.0653"
-      }
-    }
+    "name": "Clementine Bauch"
   }
 ]
